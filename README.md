@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Sajwan</h1>
 
 
-<h3 align="center"> I'm a Sophomore who is paranoid about convention, consistency, and constraints.</h3>
+<h3 align="center"> I'm a Sophomore who is optimistic about convention, consistency, and constraints.</h3>
 <br>
 
 <h1>🚀 About Me</h1>
