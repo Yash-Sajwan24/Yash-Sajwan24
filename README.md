@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Sajwan</h1>
 
 
-<h3 align="center"> I'm a Sophomore who is optimistic about convention, consistency, and constraints.</h3>
+<h3 align="center"> I'm a Sophomore who is crazy about convention, consistency, and constraints.</h3>
 <br>
 
 <h1>🚀 About Me</h1>
@@ -41,3 +41,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-sajwan24&show_icons=true&locale=en&layout=compact" alt="yash-sajwan24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-sajwan24&show_icons=true&locale=en" alt="yash-sajwan24" /></p>
+<br>
+<h1> 👻TIP</h1>
+<h3 align="center">  Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live.</h3>
