@@ -6,6 +6,8 @@
 
 <h1>🚀 About Me</h1>
 
+
+
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/7c/a1/19/7ca119241220ed47ee6fc2cc60d9c523.gif">
 
 - 👩‍💻 I'm currently working on **myself**
@@ -37,12 +39,12 @@
 
 <br>
 <h1>😎Cool Stats</h1>
+<p><img align="left" style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-sajwan24&show_icons=true&locale=en&layout=compact" alt="yash-sajwan24" /></p>
+
+<p>&nbsp;<img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api?username=yash-sajwan24&show_icons=true&locale=en" alt="yash-sajwan24" /></p>
 
 [![@yash_sajwan's Holopin board](https://holopin.me/yash_sajwan)](https://holopin.io/@yash_sajwan)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-sajwan24&show_icons=true&locale=en&layout=compact" alt="yash-sajwan24" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-sajwan24&show_icons=true&locale=en" alt="yash-sajwan24" /></p>
 <br>
 <h1> 👻TIP</h1>
 <h3 align="center">  Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live.</h3>
+
