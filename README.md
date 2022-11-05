@@ -38,6 +38,8 @@
 <br>
 <h1>😎Cool Stats</h1>
 
+[![@yash_sajwan's Holopin board](https://holopin.me/yash_sajwan)](https://holopin.io/@yash_sajwan)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-sajwan24&show_icons=true&locale=en&layout=compact" alt="yash-sajwan24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-sajwan24&show_icons=true&locale=en" alt="yash-sajwan24" /></p>
