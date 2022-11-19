@@ -40,7 +40,6 @@
 
 <br>
 <h1>😎Cool Stats</h1>
-<p><img align="left" style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-sajwan24&show_icons=true&locale=en&layout=compact" alt="yash-sajwan24" /></p>
 
 <p>&nbsp;<img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api?username=yash-sajwan24&show_icons=true&locale=en" alt="yash-sajwan24" /></p>
 
