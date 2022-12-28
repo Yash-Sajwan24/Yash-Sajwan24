@@ -43,7 +43,9 @@
 <br>
 <h1>😎Cool Stats</h1>
 
-<p>&nbsp;<img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api?username=yash-sajwan24&show_icons=true&locale=en" alt="yash-sajwan24" /></p>
+<p>&nbsp;<img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api?username=yash-sajwan24&show_icons=true&theme=tokyonight&locale=en" alt="yash-sajwan24" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-sajwan24&theme=highcontrast" alt="yash-sajwan24" /></p>
 
 [![@yash_sajwan's Holopin board](https://holopin.me/yash_sajwan)](https://holopin.io/@yash_sajwan)
 <br>
