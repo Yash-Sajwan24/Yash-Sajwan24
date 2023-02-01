@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/7c/a1/19/7ca119241220ed47ee6fc2cc60d9c523.gif">
 
-- 👩‍💻 I'm currently working on **myself**
+- 👩‍💻 I'm currently working on **MERN Stack**
 - 🧠 Coding is my **passion.**
 - ⚡ Fun fact I can touch type at **90+ wpm.**
 
