@@ -8,7 +8,7 @@
 
 
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/7c/a1/19/7ca119241220ed47ee6fc2cc60d9c523.gif">
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/7c/a1/19/7ca119241220ed47ee6fc2cc60d9c523.gif">
 
 - 👩‍💻 I'm currently working on **MERN Stack**
 - 🧠 Coding is my **passion.**
@@ -38,9 +38,8 @@
 <br>
 <h1>😎Cool Stats</h1>
 
-<p>&nbsp;<img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api?username=yash-sajwan24&show_icons=true&theme=tokyonight&locale=en" alt="yash-sajwan24" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-sajwan24&theme=highcontrast" alt="yash-sajwan24" /></p>
+&nbsp;<img style="height:200px" src="https://github-readme-stats.vercel.app/api?username=yash-sajwan24&show_icons=true&theme=tokyonight&locale=en" alt="yash-sajwan24" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-sajwan24&theme=highcontrast" alt="yash-sajwan24" />
 
 [![@yash_sajwan's Holopin board](https://holopin.me/yash_sajwan)](https://holopin.io/@yash_sajwan)
 <br>
