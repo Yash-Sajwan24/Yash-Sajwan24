@@ -13,12 +13,7 @@
 - 👩‍💻 I'm currently working on **MERN Stack**
 - 🧠 Coding is my **passion.**
 - ⚡ Fun fact I can touch type at **90+ wpm.**
-
-
-
 - 📫 How to reach me **yashsajwan12345@gmail.com**
-
-- 💬 Ask me about **life**
 - 🤪Checkout my portfolio website https://yashsajwan.netlify.app/
 
 <br>
