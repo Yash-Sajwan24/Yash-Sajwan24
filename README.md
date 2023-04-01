@@ -39,11 +39,5 @@
 
 
 <br>
-<h1>😎Cool Stats</h1>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-sajwan24&theme=highcontrast" alt="yash-sajwan24" />
-
-[![@yash_sajwan's Holopin board](https://holopin.me/yash_sajwan)](https://holopin.io/@yash_sajwan)
-<br>
-<h1> 👻TIP</h1>
 <h3 align="center">  Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live.</h3>
 
