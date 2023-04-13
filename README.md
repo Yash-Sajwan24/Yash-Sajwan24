@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Sajwan</h1>
 
-
-<h3 align="center"> I'm a Sophomore who is crazy about convention, consistency, and constraints.</h3>
-<br>
-
 <h1>🚀 About Me</h1>
  <img src="https://komarev.com/ghpvc/?username=Yash-Sajwan248&label=visitors%20" alt="Yashsajwan" />
 
@@ -11,6 +7,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/7c/a1/19/7ca119241220ed47ee6fc2cc60d9c523.gif">
 
+- 👾 A Sophomore who is crazy about convention, consistency, and constraints.
 - 👩‍💻 I'm currently working on **MERN Stack**
 - 🧠 Coding is my **passion.**
 - ⚡ Fun fact I can touch type at **90+ wpm.**
@@ -39,7 +36,4 @@
 
 </p>
 
-
-<br>
-<h3 align="center">  Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live.</h3>
 
