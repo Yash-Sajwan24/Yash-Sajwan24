@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Sajwan</h1>
 
-<h1>🚀 About Me</h1>
  <img src="https://komarev.com/ghpvc/?username=Yash-Sajwan248&label=visitors%20" alt="Yashsajwan" />
 
 
