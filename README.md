@@ -8,7 +8,7 @@
 
 - 👾 A 3rd Year undergrad who is crazy about convention, consistency, and constraints.
 - 👩‍💻 I'm currently working on **MERN Stack**
-- 🧠 Coding is my **passion.**
+- 🧠 I am good at **Chess and Football**
 - ⚡ Fun fact I can touch type at **90+ wpm.**
 - 📫 How to reach me **yashsajwan12345@gmail.com**
 - 🤪Checkout my portfolio website https://yashsajwan.netlify.app/
