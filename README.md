@@ -10,10 +10,10 @@
 - 👩‍💻 I'm currently working on **MERN Stack**
 - 🧠 I am good at **Chess and Football**
 - ⚡ Fun fact I can touch type at **90+ wpm.**
-- 📫 How to reach me **yashsajwan12345@gmail.com**
-- 🤪Checkout my portfolio website https://yashsajwan.netlify.app/
+- 📫 Contact Me :  **yashsajwan12345@gmail.com**
+- 🤪 Portfolio Website : https://yashsajwan.netlify.app/
 
-- Striver SDE Sheet : https://github.com/Yash-Sajwan24/Strivers-SDE-Sheet-Challenge
+- Striver SDE Sheet: https://github.com/Yash-Sajwan24/Strivers-SDE-Sheet-Challenge
 
 <br>
 
