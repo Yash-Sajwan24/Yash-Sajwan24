@@ -7,8 +7,8 @@
 <!-- <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/7c/a1/19/7ca119241220ed47ee6fc2cc60d9c523.gif"> -->
 
 - 👾 A 3rd Year undergrad who is crazy about convention, consistency, and constraints.
-- 👩‍💻 I'm currently working on **MERN Stack**
-- 🧠 I am good at **Chess and Football**
+- 👩‍💻 I'm currently working on **MERN Stack**.
+- 🧠 I am good at **Chess and Football**.
 - ⚡ Fun fact I can touch type at **90+ wpm.**
 - 📫 Contact Me :  **yashsajwan12345@gmail.com**
 - 🤪 Portfolio Website : https://yashsajwan.netlify.app/
