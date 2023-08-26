@@ -11,7 +11,6 @@
 - ⚡ Fun fact I can touch type at **90+ wpm.**
 - 📫 Contact Me :  **yashsajwan12345@gmail.com**
 - 🤪 Portfolio Website : https://yashsajwan.netlify.app/
-- 🚀 Striver SDE Sheet : https://github.com/Yash-Sajwan24/Strivers-SDE-Sheet-Challenge
 
 
 <h1>🫥Connect with Me</h1>
