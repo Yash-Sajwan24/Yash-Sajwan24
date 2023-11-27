@@ -10,7 +10,7 @@
 - 👩‍💻 I'm currently working on **MERN Stack**.
 - ⚡ Fun fact I can touch type at **90+ wpm.**
 - 📫 How to reach me **yashsajwan12345@gmail.com**
-- 🔗 Checkout my Portfolio Website https://yashsajwan.netlify.app/
+- 🔗 Checkout my Portfolio Website **[Yash Sajwan - Portfolio](https://yashsajwanportfolio.netlify.app/)**
 
 
 <h2>🫥Connect with Me</h2>
