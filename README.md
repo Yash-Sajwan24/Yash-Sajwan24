@@ -9,7 +9,7 @@
 - 🔭 A 3rd Year undergrad who is crazy about convention, consistency, and constraints.
 - 👩‍💻 I'm currently working on **MERN Stack**.
 - ⚡ Fun fact I can touch type at **90+ wpm.**
-- 📫 How to reach me **yashsajwan12345@gmail.com**
+- 📫 Reach me out at **yashsajwan12345@gmail.com**
 - 🔗 Checkout my Portfolio Website **[Yash Sajwan - Portfolio](https://yashsajwanportfolio.netlify.app/)**
 
 
